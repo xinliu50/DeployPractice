@@ -1,4 +1,4 @@
-language: html
+language: python
 
 deploy:
   provider: pages
